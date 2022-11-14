@@ -3,11 +3,11 @@
   <title>螺壳道场</title>
   
   <subtitle>广阔天地，大有作为</subtitle>
-  <link href="https://jellyfish-toufufun.github.io/Jellyfish-toufufun.github.io/atom.xml" rel="self"/>
+  <link href="http://pluviophile.com.cn/atom.xml" rel="self"/>
   
-  <link href="https://jellyfish-toufufun.github.io/Jellyfish-toufufun.github.io/"/>
+  <link href="http://pluviophile.com.cn/"/>
   <updated>2022-11-02T18:59:20.570Z</updated>
-  <id>https://jellyfish-toufufun.github.io/Jellyfish-toufufun.github.io/</id>
+  <id>http://pluviophile.com.cn/</id>
   
   <author>
     <name>豆腐饭君</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://jellyfish-toufufun.github.io/Jellyfish-toufufun.github.io/2022/11/03/hello-world/"/>
-    <id>https://jellyfish-toufufun.github.io/Jellyfish-toufufun.github.io/2022/11/03/hello-world/</id>
+    <link href="http://pluviophile.com.cn/2022/11/03/hello-world/"/>
+    <id>http://pluviophile.com.cn/2022/11/03/hello-world/</id>
     <published>2022-11-02T18:59:20.570Z</published>
     <updated>2022-11-02T18:59:20.570Z</updated>
     
